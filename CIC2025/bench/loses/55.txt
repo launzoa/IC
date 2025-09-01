@@ -1,0 +1,41 @@
+==== Rodando experimento com 200 pontos na malha (Seed: 55) ====
+Iniciando treinamento da ODEFunc...
+Epoch 0, Loss: 84.048592
+Epoch 500, Loss: 0.297325
+Epoch 1000, Loss: 0.237887
+Epoch 1500, Loss: 0.209072
+Treinamento concluído.
+Testando solvers na ODEFunc aprendida...
+  -> Rodando método euler
+  -> Rodando método rk4
+  -> Rodando método dopri5
+  -> Rodando método explicit_adams
+Gerando gráficos...
+
+==== Rodando experimento com 1000 pontos na malha (Seed: 55) ====
+Iniciando treinamento da ODEFunc...
+Epoch 0, Loss: 83.891510
+Epoch 500, Loss: 0.298252
+Epoch 1000, Loss: 0.238648
+Epoch 1500, Loss: 0.209769
+Treinamento concluído.
+Testando solvers na ODEFunc aprendida...
+  -> Rodando método euler
+  -> Rodando método rk4
+  -> Rodando método dopri5
+  -> Rodando método explicit_adams
+Gerando gráficos...
+
+==== Rodando experimento com 2000 pontos na malha (Seed: 55) ====
+Iniciando treinamento da ODEFunc...
+Epoch 0, Loss: 83.871964
+Epoch 500, Loss: 0.298368
+Epoch 1000, Loss: 0.238743
+Epoch 1500, Loss: 0.209856
+Treinamento concluído.
+Testando solvers na ODEFunc aprendida...
+  -> Rodando método euler
+  -> Rodando método rk4
+  -> Rodando método dopri5
+  -> Rodando método explicit_adams
+Gerando gráficos...
