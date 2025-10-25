@@ -1,5 +1,0 @@
-Resumo Final das Inicializações:
-xavier          | Loss inicial = 81.314430 | Loss final = 0.205381
-kaiming         | Loss inicial = 0.485334 | Loss final = 0.167636
-normal          | Loss inicial = 0.621836 | Loss final = 0.159841
-uniform_small   | Loss inicial = 0.652154 | Loss final = 0.156174
